@@ -1,4 +1,20 @@
+LOGO HTML：
 <img src="photo\LOGO.png" alt="LOGO" width="90px" height="90px" /> <br /> <br />
 
-在实际生活中，通信资源是十分有限的。有限的通信资源迫使我们需要进行合理的通信资源分配。在资源分配中，我们通过将资源根据时间和频率两个维度进行划分，
-并将划分好的资源块分配给接入信道的用户。
+Research1 HTML：
+<p style = "text-align:center;">
+<img src="photo\rein2.png" alt="Intelligent radio resource management_2" width="367px" height="234px" hspace="10" vspace="10" align="middle" />
+<img src="photo\rein.png" alt="Intelligent radio resource management" width="486px" height="250px" hspace="10" vspace="10" align="middle" />
+</p>
+
+Research2 HTML：
+<p style = "text-align:center;">
+<img src="photo\fed2.png" alt="Machine learning over wireless networks_2" width="365px" height="271px" hspace="10" vspace="10" align="middle" />
+<img src="photo\fed.png" alt="Machine learning over wireless networks" width="479px" height="271px" hspace="10" vspace="10" align="middle" />
+</p>
+
+Research3 HTML：
+<p style = "text-align:center;">
+<img src="photo\sem.png" alt="Learning-based communication signal processing" width="605px" height="250px" hspace="10" vspace="10" align="middle" />
+<img src="photo\sem2.png" alt="Learning-based communication signal processing" width="329px" height="250px" hspace="10" vspace="10" align="middle" />
+</p>
