@@ -1,0 +1,61 @@
+# jemdoc: menu{MENU}{index.html}
+= Le Liang
+[https://www.seu.edu.cn/ Southeast University, Nanjing, China]
+
+~~~
+{}{img_left}{photo\leliang.jpg}{Le Liang}{150}{200} 
+Le Liang 梁乐 \n 
+Professor \n
+School of Information Science and Engineering \n
+National Mobile Communications Research Laboratory (NCRL) \n
+[https://www.seu.edu.cn/ Southeast University, Nanjing, China] \n\n 
+Office: CNV A2409 \n
+E-mail: lliang AT seu.edu.cn \n
+[https://scholar.google.ca/citations?user=Iv2E-SsAAAAJ&hl=en *Google Scholar*] \/ [https://github.com/le-liang *GitHub (Individual)*] \/ [https://github.com/lianggroup *GitHub (Group)*] \n
+~~~
+
+== Biography
+
+Le Liang is a Professor in the School of Information Science and Engineering, Southeast University, Nanjing, China. He received the B.E. degree in information engineering from Southeast University in 2012, the M.A.Sc degree in electrical engineering from the University of Victoria, Canada, in 2015, and the Ph.D. degree in electrical and computer engineering from the Georgia Institute of Technology, USA, in 2018. From 2019 to 2021, he was a Research Scientist at Intel Labs, Hillsboro, USA. His main research interests are in wireless communications, signal processing, and machine learning.
+
+Dr. Liang serves as an Editor for the IEEE Communications Letters (2019-now). He served as an Associate Editor for the IEEE JSAC Series on Machine Learning in Communications and Networks (2020-2022). He is a member of the Machine Learning for Signal Processing Technical Committee of the IEEE Signal Processing Society (2021-now). He was a Technical Program Committee co-chair of the 18th International Symposium on Wireless Communication Systems (ISWCS) in 2022. He received the Best Paper Award of IEEE/CIC ICCC in 2014 and was named an Exemplary Reviewer of the IEEE Wireless Communications Letters in 2018.
+
+== Research Interests
+My main research interests are in *wireless communications, signal processing*, and *machine learning*. \n
+The current focus is on the theory and application of intelligent wireless systems, including: \n
+- *Intelligent radio resource management* (e.g. resource allocation in cellular\/V2X\/Wi-Fi networks)
+- *Multi-agent system over wireless networks* (e.g. collaborative perception for autonomous driving and federated learning)
+- *Learning-based communication signal processing* (e.g. semantic communications and MIMO)
+
+
+To have an idea on what we do on a day-to-day basis, the tools we frequently use in research include deep\/reinforcement\/federated learning, graph neural networks, variational inference\/MCMC, and optimization. 
+~~~
+I usually have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop me an email if you are interested in working with me.\n
+我一般每年会招收1-2名博士生和3-4名硕士生。如果你对无线通信、信号处理、机器学习等方向有兴趣，欢迎与我联系，谢谢。
+~~~
+
+== Representative papers
+
+*-\- Intelligent radio resource management*
+- [https://ieeexplore.ieee.org/document/8943940 Deep-learning-based wireless resource allocation with application to vehicular networks] \n
+		L. Liang, H. Ye, G. Yu, and G. Y. Li, /Proceedings of the IEEE/, vol. 108, no. 2, pp. 341-356, Feb. 2020. 
+- [https://ieeexplore.ieee.org/document/8345717/ Graph-based resource sharing in vehicular communication] [https://github.com/AlexVic/ResourceAllocationV2Xgraph *\[Code\]*]\n
+		L. Liang, S. Xie, G. Y. Li, Z. Ding, and X. Yu, /IEEE Transactions on Wireless Communications/,  vol. 17, no. 7, pp. 4579–-4592, Jul. 2018.
+- [https://ieeexplore.ieee.org/document/8792382 Spectrum sharing in vehicular networks based on multi-agent reinforcement learning] [https://github.com/le-liang/MARLspectrumSharingV2X *\[Code\]*] \n
+		L. Liang, H. Ye, and G. Y. Li, /IEEE Journal on Selected Areas in Communications/, vol. 37, no. 10, pp. 2282-2292, Oct. 2019.
+- [https://ieeexplore.ieee.org/document/9940399 Joint Spectrum Allocation and Power Control in Vehicular Networks Based on Reinforcement Learning] \n
+K. Wang, Y. Feng, L. Liang, and S. Jin, in /Proceedings of International Symposium on Wireless Communication Systems (ISWCS)/, 2022, pp. 1--6.
+- [https://ieeexplore.ieee.org/document/10012705 Fast Spectrum Sharing in Vehicular Networks: A Meta Reinforcement Learning Approach] \n
+K. Huang, Z. Luo, L. Liang, and S. Jin, in /Proceedings of IEEE 96th Vehicular Technology Conference (VTC2022-Fall)/, 2022, pp. 1--5.
+
+*-\- Learning-based communication signal processing*
+- [https://ieeexplore.ieee.org/document/10013075 A Multi-Task Semantic Communication System for Natural Language Processing] \n
+		Y. Sheng, F. Li, L. Liang, and S. Jin, in /Proceedings of IEEE 96th Vehicular Technology Conference (VTC2022-Fall)/, 2022, pp. 1--5.
+- [https://ieeexplore.ieee.org/document/8985539 Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel] [https://github.com/haoyye/End2End_GAN *\[Code\]*]  \n
+		H. Ye, L. Liang, G. Y. Li, and B.-H. Juang, /IEEE Transactions on Wireless Communications/, vol. 19, no. 5, pp. 3133-3143, May 2020. 
+
+*-\- Multi-agent system over wireless networks*
+- [https://ieeexplore.ieee.org/document/9716792 Decentralized federated learning with unreliable communications]
+		[https://github.com/haoyye/Unrealiable_Decentralized_FL *\[Code*\]]\n 
+		H. Ye, L. Liang, and G. Y. Li, /IEEE Journal of Selected Topics in Signal Processing/, vol. 16, no. 3, pp. 487-500, Apr. 2022. 
+

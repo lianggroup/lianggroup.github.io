@@ -1,0 +1,131 @@
+# jemdoc: menu{MENU}{publication.html}
+= Le Liang
+[https://www.seu.edu.cn/ Southeast University, Nanjing, China]
+
+My [https://scholar.google.ca/citations?user=Iv2E-SsAAAAJ&hl=en Google Scholar] profile sometimes is more up-to-date. Accompanying codes can be downloaded next to the link of the papers when available.
+
+== Journal papers
+
+- [https://ieeexplore.ieee.org/document/9762762/ Coverage control for UAV swarm communication networks: A distributed learning approach] \n 
+N. Gao, L. Liang, D. Cai, X. Li, and S. Jin, /IEEE Internet of Things Journal/, vol. 9, no. 20, pp. 19854-19867, Oct. 2022.
+
+- [https://ieeexplore.ieee.org/document/9861221/ Federated edge learning for the wireless physical layer: Opportunities and challenges] \n
+Y. Cui, J. Guo, X. Li, L. Liang, and S. Jin, /China Communications/, vol. 19, no. 8, pp. 15-30, Aug. 2022.
+
+- [https://ieeexplore.ieee.org/document/9716792 Decentralized federated learning with unreliable communications]
+[https://github.com/haoyye/Unrealiable_Decentralized_FL *\[Code*\]]\n 
+H. Ye, L. Liang, and G. Y. Li, /IEEE Journal of Selected Topics in Signal Processing/, vol. 16, no. 3, pp. 487-500, Apr. 2022.
+
+- [https://ieeexplore.ieee.org/abstract/document/9439959 A lightweight deep network for efficient CSI feedback in massive MIMO systems] \n
+Y. Sun, W. Xu, L. Liang, N. Wang, and G. Y. Li, /IEEE Wireless Communication Letters/, vol. 10, no. 8, pp. 1840-1844, Aug. 2021. 
+
+- [https://ieeexplore.ieee.org/abstract/document/9434950 A vector processor for mean field Bayesian channel estimation] \n
+D. Dasalukunte, R. Dorrance, L. Liang, and L. Lu, /IEEE Transactions on Very Large Scale Integration (VLSI) Systems/, vol. 29, no. 7, pp. 1348-1359, July 2021. 
+
+- [https://ieeexplore.ieee.org/document/9026965 Learn to compress CSI and allocate resources in vehicular networks] [https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code *\[Code\]*]  \n
+L. Wang, H. Ye, L. Liang, and G. Y. Li, /IEEE Transactions on Communications/, vol. 68, no. 6, pp. 3640-3653, Jun. 2020
+
+- [https://ieeexplore.ieee.org/document/8985539 Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel] [https://github.com/haoyye/End2End_GAN *\[Code\]*]  \n
+H. Ye, L. Liang, G. Y. Li, and B.-H. Juang, /IEEE Transactions on Wireless Communications/, vol. 19, no. 5, pp. 3133-3143, May 2020. 
+
+- [https://ieeexplore.ieee.org/document/8943940 Deep-learning-based wireless resource allocation with application to vehicular networks] \n
+L. Liang, H. Ye, G. Yu, and G. Y. Li, /Proceedings of the IEEE/, vol. 108, no. 2, pp. 341-356, Feb. 2020. 
+
+- [https://ieeexplore.ieee.org/document/8792382 Spectrum sharing in vehicular networks based on multi-agent reinforcement learning] [https://github.com/le-liang/MARLspectrumSharingV2X *\[Code\]*] \n
+L. Liang, H. Ye, and G. Y. Li, /IEEE Journal on Selected Areas in Communications/, vol. 37, no. 10, pp. 2282-2292, Oct. 2019.
+
+- [https://ieeexplore.ieee.org/abstract/document/8676020 Resource allocation for V2X communications: A large deviation theory perspective] \n
+C. Guo, L. Liang, and G. Y. Li, /IEEE Wireless Communications Letters/, vol. 8, no. 4, pp. 1108–-1111, Aug. 2019.
+
+- [https://ieeexplore.ieee.org/document/8731910/ Resource allocation for vehicular communications with low latency and high reliability] \n
+C. Guo, L. Liang, and G. Y. Li, /IEEE Transactions on Wireless Communications/, vol. 18, no. 8, pp. 3887--3902, Aug. 2019.
+
+- [https://ieeexplore.ieee.org/document/8723178 Resource allocation for high-reliability low-Latency vehicular communications with packet retransmission] \n
+C. Guo, L. Liang, and G. Y. Li, /IEEE Transactions on Vehicular Technology/, vol. 68, no. 7, pp. 6219--6230, Jul. 2019.
+
+- [https://ieeexplore.ieee.org/document/8638940 Resource allocation for low-latency vehicular communications: An effective capacity perspective] \n
+C. Guo, L. Liang, and G. Y. Li, /IEEE Journal on Selected Areas in Communications/, vol. 37, no. 4, pp. 905–-917, Apr. 2019.
+
+- [https://ieeexplore.ieee.org/document/8472113 Toward intelligent vehicular networks: A machine learning framework] \n
+L. Liang, H. Ye, and G. Y. Li, /IEEE Internet of Things Journal/, vol. 6, no. 1, pp. 124--135, Feb. 2019.
+
+- [https://ieeexplore.ieee.org/document/8354811/ Vehicular communications: A network layer perspective] \n
+H. Peng, L. Liang, X. Shen, and G. Y. Li, /IEEE Transactions on Vehicular Technology/, vol. 68, no. 2, pp. 1064--1078, Feb. 2019.
+
+- [https://ieeexplore.ieee.org/document/8352650/ Framework of channel estimation for hybrid analog-and-digital processing enabled massive MIMO communications]\n
+L. Pan, L. Liang, W. Xu, and X. Dong, /IEEE Transactions on Communications/, vol. 66, no. 9, pp. 3902--3915, Sep. 2018.
+
+- [https://ieeexplore.ieee.org/document/8345717/ Graph-based resource sharing in vehicular communication] [https://github.com/AlexVic/ResourceAllocationV2Xgraph *\[Code\]*]\n
+L. Liang, S. Xie, G. Y. Li, Z. Ding, and X. Yu, /IEEE Transactions on Wireless Communications/,  vol. 17, no. 7, pp. 4579–-4592, Jul. 2018.
+
+- [https://ieeexplore.ieee.org/document/8345672/ Machine learning for vehicular networks: Recent advances and application examples] \n
+H. Ye, L. Liang, G. Y. Li, J. Kim, L. Lu, and M. Wu, /IEEE Vehicular Technology Magazine/, vol. 13, no. 2, pp. 94--101, Jun. 2018.
+
+- [http://ieeexplore.ieee.org/document/8031287/ Vehicular communications: A physical layer perspective] \n
+L. Liang, H. Peng, G. Y. Li, and X. Shen, /IEEE Transactions on Vehicular Technology/, vol. 66, no. 12, pp. 10647--10659, Dec. 2017.
+
+- [http://ieeexplore.ieee.org/document/7922547/ Spectrum and power allocation for vehicular communications with delayed CSI feedback] [https://github.com/AlexVic/ResourceAllocationDelayedCSI *\[Code\]*]\n
+L. Liang, J. JoonBeom, S. C. Jha, K. Sivanesan, and G. Y. Li, /IEEE Wireless Communications Letters/, vol. 6, no. 4, pp. 458-–461, Aug. 2017.
+
+- [http://ieeexplore.ieee.org/document/7913583/ Resource allocation for D2D-enabled vehicular communications] [https://github.com/AlexVic/ResourceAllocationV2X *\[Code\]*]\n
+L. Liang, G. Y. Li, W. Xu, /IEEE Transactions on Communications/, vol. 65, no. 7, pp. 3186–-3197, Jul. 2017.
+
+- [http://ieeexplore.ieee.org/abstract/document/6928432/ Low-complexity hybrid precoding in massive multiuser MIMO systems] [https://github.com/AlexVic/HybridPrecodingMassiveMIMO *\[Code\]*] \n
+L. Liang, W. Xu, and X. Dong, /IEEE Wireless Communications Letters/, vol. 3, no. 6, pp. 653--656, Dec. 2014. 
+
+- [https://link.springer.com/article/10.1007/s11277-013-1456-6 On coordinated multi-point transmission with partial channel state information via delayed feedback] \n
+W. Xu and L. Liang, /Wireless Personal Communications/, vol. 75, no. 4, pp. 2103--2119, Apr. 2014. 
+
+- [http://ieeexplore.ieee.org/abstract/document/6565336/ Limited feedback-based multi-antenna relay broadcast channels with block diagonalization] \n
+L. Liang, W. Xu, and X. Dong, /IEEE Transactions on Wireless Communications/, vol. 12, no. 8, pp. 4092--4101, Aug. 2013. 
+
+
+== Conference papers
+- [https://ieeexplore.ieee.org/document/9940399 Joint Spectrum Allocation and Power Control in Vehicular Networks Based on Reinforcement Learning] \n
+K. Wang, Y. Feng, L. Liang, and S. Jin, in /Proceedings of International Symposium on Wireless Communication Systems (ISWCS)/, 2022, pp. 1--6.
+
+- [https://ieeexplore.ieee.org/document/10012705 Fast Spectrum Sharing in Vehicular Networks: A Meta Reinforcement Learning Approach] \n
+K. Huang, Z. Luo, L. Liang, and S. Jin, in /Proceedings of IEEE 96th Vehicular Technology Conference (VTC2022-Fall)/, 2022, pp. 1--5.
+
+- [https://ieeexplore.ieee.org/document/10013075 A Multi-Task Semantic Communication System for Natural Language Processing] \n
+Y. Sheng, F. Li, L. Liang, and S. Jin, in /Proceedings of IEEE 96th Vehicular Technology Conference (VTC2022-Fall)/, 2022, pp. 1--5.
+
+- [https://ieeexplore.ieee.org/document/10012701 Coverage Enhancement of 5G Commercial Network based on Reconfigurable Intelligent Surface] \n
+J. Li, B. Gao, Z. Yu, C. Li, W. Tang, L. Liang, X. Li, S. Jin, Q. Cheng and T. Cui in /Proceedings of IEEE 96th Vehicular Technology Conference (VTC2022-Fall)/, 2022, pp. 1--5.
+
+- [https://ieeexplore.ieee.org/abstract/document/8815483 Circular convolutional auto-encoder for channel coding] \n
+H. Ye, L. Liang, and G. Y. Li, in /Proceedings of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, 2019, pp. 1--5.
+
+- [https://ieeexplore.ieee.org/abstract/document/8815439 Multi-agent reinforcement learning for spectrum sharing in vehicular networks] \n
+L. Liang, H. Ye, and G. Y. Li, in /Proceedings of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, 2019, pp. 1--5.
+
+
+- [https://ieeexplore.ieee.org/document/8647866 Resource allocation for low-latency vehicular communications with packet retransmissions]\n
+C. Guo, L. Liang, and G. Y. Li, in /Proceedings of IEEE Global Communications Conference (GLOBECOM)/, 2018, pp. 1–-6.
+
+- [https://ieeexplore.ieee.org/document/8422585/ Graph-based radio resource management for vehicular networks] \n
+L. Liang, S. Xie, G. Y. Li, Z. Ding, and X. Yu, in /Proceedings of IEEE International Conference on Communications (ICC)/, 2018, pp. 1--6. 
+
+
+- [http://ieeexplore.ieee.org/abstract/document/7952854/ Meeting different QoS requirements of vehicular networks: A D2D-based approach] \n
+L. Liang, G. Y. Li, W. Xu, in /Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2017, pp. 3734--3738. 
+
+
+- [http://ieeexplore.ieee.org/abstract/document/7008332/ How to approach zero-forcing under RF chain limitations in large mmWave multiuser systems?] \n
+L. Liang, Y. Dai, W. Xu, and X. Dong, in /Proceedings of IEEE International Conference on Communications in China (ICCC)/, 2014, pp. 518--522. (*Best Paper Award*)
+
+- [http://ieeexplore.ieee.org/abstract/document/6503793/ Performance enhanced transmission in device-to-device communications: Beamforming or interference cancellation?]\n
+W. Xu, L. Liang, S. Jin, J. Li, and M. Lei, in /Proceedings of IEEE Global Communications Conference (GLOBECOM)/, 2012, pp. 4296--4301.
+
+- [http://ieeexplore.ieee.org/abstract/document/6362747/ Adaptive coordinated multi-point transmission based on delayed limited feedback] \n
+L. Liang, W. Xu, and H. Zhang, in /Proceedings of IEEE 23rd International Symposium on Personal Indoor and Mobile Radio Communications (PIMRC)/, 2012, pp. 2335--2340.
+
+- [http://ieeexplore.ieee.org/abstract/document/6212949/ Approaching downlink capacity of multiplexing relay channels with imperfect channel information] \n
+W. Xu and L. Liang, in /Proceedings of 4th International High Speed Intelligent Communication Forum (HSIC)/, 2012, pp. 136--138.
+
+== Theses
+- [https://smartech.gatech.edu/handle/1853/60780 Resource allocation for vehicular communications] (Ph.D. Dissertation, Georgia Institute of Technology, 2018)
+
+- [https://dspace.library.uvic.ca/handle/1828/6910 Practical precoding design for modern multiuser MIMO communications] (M.A.Sc Thesis, University of Victoria, 2015)
+ 
+- [thesis_seu.pdf Cooperative communications in MIMO systems (in Chinese)] (B.E. Thesis, Southeast University, 2012)

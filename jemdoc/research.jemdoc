@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{research.html}
+= Le Liang
+[https://www.seu.edu.cn/ Southeast University, Nanjing, China]
+
+My main research interests are in *wireless communications, signal processing*, and *machine learning*. 
+~~~
+The current focus is on *the theory and application of intelligent wireless systems*.
+- Intelligent radio resource management (e.g. resource allocation in cellular/V2X/Wi-Fi networks)
+- Multi-agent system over wireless networks (e.g. collaborative perception for autonomous driving and federated learning)
+- Learning-based communication signal processing (e.g. semantic communications and MIMO)
+~~~
+
+== Intelligent radio resource management（无线资源的智能分配与管理）
+
+*Keywords: Resource allocation, Deep reinforcement learning, Graph neural network* \n
+In real life, communication resources are always limited. Limited communication resources force us to make reasonable allocation of communication resources. 
+In resource allocation, we divide resources according to two dimensions: time and frequency (OFDM).
+The divided resource blocks are allocated to the users who have access to the channel. \n
+
+*The traditional approach is to model the resource allocation problem as a constrained optimization problem.* But there are many problems with doing so: \n
+- First, modeling a resource allocation problem as an optimization problem requires that we know all constraints and goals. But in reality we do not necessarily know the analytical expressions of all constraints and goals.
+- Secondly, for a sequential optimization problem we need to solve the optimization problem at each time step, which requires a lot of calculation time and is therefore difficult to achieve in practice.
+
+In recent years, research in the field of reinforcement learning and deep learning has progressed rapidly. 
+Some scholars have tried to model resource allocation problem as a sequence of decision-making and use deep reinforcement learning to maximize returns. Some scholars have tried to model
+ the interference relationship between different links into a graph and solve the problem using graph neural networks.
+*Our group is now investigating how graph neural network and deep reinforcement learning can be used to better solve resource allocation problems in communication.*
+
+== Multi-agent system over wireless networks（通信鲁棒的多智能体系统设计）
+
+*Keywords: Multi-agent system, Collaborative Perception, Federated learning*
+A system is always made up of multiple inteligent agents. For example, a company has multiple employees, or an intersection is equipped with multiple cameras, and so on. Multiple agents within a system need to exchange information to make the system work better.
+*Many existing AI models tend to view communication between multiple agents as an ideal communication process*, including: \n
+- All agents can communicate with each other at the same time.
+- Communication between different agents is perfect, i.e. there is no delay as well as noise and interference in communication between different agents.
+However, in the real-world scenarios, this is not the case. *Latency and noise are unavoidable in real-world multi-agent communication scenarios*, which affect the overall performance of a system.
+Therefore, from the perspective of system performance, we need to mitigate the impact of latency and noise on multi-agent communication, so as to improve the performance of deep learning systems.
+Our group is now investigating multi-agent systems with imperfect communication, such as federated learning with imperfect communication and collaborative perception over wireless networks for autonomous driving
+
+== Learning-based communication signal processing（机器学习使能的信号处理方法）
+
+*Keywords: Goal-oriented/Semantic communication, MIMO*
+In recent years, with the continuous development of machine learning, traditional physical layer signal processing methods (including compilation, modulation, and equalization) have begun to be challenged by learning-based signal processing methods.
+Scholars are beginning to use machine learning methods to replace traditional signal processing methods based on the statistical characteristics of signals. Although the interpretability of machine learning methods is still poor,
+scholars are beginning to find that they have gradually begun to surpass traditional physical layer signal processing methods in performance. \n
+*Our group is now investigating the performance and potential of learning-based communication signal processing methods (mainly focusing on physical layer).*
